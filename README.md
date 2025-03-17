@@ -1,3 +1,7 @@
+# Tarea 2
+Bryan Ortega
+Conexión con Kafka
+Uso de Kcat! con WSL con distribución Ubuntu
 # Lab 2: Kafka for Data Streaming
 
 In this lab, you will gain hands-on experience with Apache Kafka, a distributed streaming platform that plays a key role in processing large-scale real-time data. You will establish a connection to a Kafka broker, produce and consume messages, and explore Kafka command-line tools. This lab will prepare you for your group project, where you'll work with Kafka streams. 
